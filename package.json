@@ -1,0 +1,30 @@
+{
+  "name": "node_expressjs_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokinguyen04/nodejs_1stProject.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs"
+  ],
+  "author": "Loki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokinguyen04/nodejs_1stProject/issues"
+  },
+  "homepage": "https://github.com/lokinguyen04/nodejs_1stProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
